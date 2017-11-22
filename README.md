@@ -1,15 +1,11 @@
-# Cardiac MRI Segmentation
+# SweepNet (WIP)
 
-![build status](https://travis-ci.org/chuckyee/cardiac-segmentation.svg?branch=master)
+This is an early forlk of [chuckyee's](https://chuckyee.github.io/cardiac-segmentation/) dilated densenet implimentation for cardiac segmentation.
 
-This repository contains code and models to identify the right ventricle in
-cardiac MRI images. The
-[project](http://ai-on.org/projects/cardiac-mri-segmentation.html) is one of
-the open calls for research from Francois Chollet's [AI Open
-Network](http://ai-on.org/).
+My intention if to ammend it for forced meaningfuly comparative attention on two images/slices. 
 
-For the problem description, models and results, please see the blog post
-[here](https://chuckyee.github.io/cardiac-segmentation/).
+So much will change (eventually)...
+
 
 ## Installation
 
